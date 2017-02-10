@@ -1,5 +1,7 @@
 # Mirror for Phantomjs binaries
 
+NOTE: Originals are always available here: https://bitbucket.org/ariya/phantomjs/downloads
+
 ## Environment variable
 `export PHANTOMJS_CDNURL=https://github.com/aversini/phantomjs-binaries/raw/master/`
 
